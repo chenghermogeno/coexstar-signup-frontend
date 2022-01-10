@@ -4,7 +4,7 @@ export const MyContext = createContext();
 
 // Define the base URL
 const Axios = axios.create({
-  baseURL: "http://localhost/php-auth-api/",
+  baseURL: "https://coex-crud-api.herokuapp.com/",
 });
 
 class MyContextProvider extends Component {
