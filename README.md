@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+Sign up website - frontend side.
+
+used the following PL and Tools: HTML, CSS, React JS, Visual Stuidio, and Herokuapp.
+
+see: coexstar-signup-backend to view the backend side.
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
