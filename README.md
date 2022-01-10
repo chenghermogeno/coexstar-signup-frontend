@@ -1,13 +1,12 @@
-Sign up website - frontend side.
+**#Sign up website - frontend side.**
 
-used the following PL and Tools: HTML, CSS, React JS, Visual Stuidio, and Herokuapp.
+I used the following PL and Tools: HTML, CSS, React JS, Visual Stuidio, and Herokuapp.
 
-see: coexstar-signup-backend to view the backend side.
+_see: coexstar-signup-backend to view the backend side._
 
-
-
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<br>
+<br>
+<br>
 
 ## Available Scripts
 
